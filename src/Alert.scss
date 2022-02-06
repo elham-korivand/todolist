@@ -1,0 +1,10 @@
+.alert {
+  font-size: 1.3rem;
+  color: white;
+  &-error {
+    color: red;
+  }
+  &-success {
+    color: rgb(49, 247, 49);
+  }
+}
